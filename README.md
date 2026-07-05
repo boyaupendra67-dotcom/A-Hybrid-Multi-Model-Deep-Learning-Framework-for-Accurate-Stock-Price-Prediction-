@@ -55,7 +55,7 @@ The developed model accurately predicts stock prices using historical trends and
 * Transformer-based prediction models
 * Web-based deployment using Flask or Streamlit
 
-## Author
+## Author 
 
-Vijaya Durga Bolla
+Boya upendra
 
